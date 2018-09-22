@@ -1,4 +1,6 @@
 # K-Means Clustering
+##### For Assignments COMP527 Data Mining, MSc Computer Science, University of Liverpool
+
 Implementation of the k-Mean clustering algorithm to cluster words belonging to four categories: animals, countries,
 fruits and veggies, arranged into four different files. 
 The first entry in each line is a word followed by 300 features (word embedding) describing the meaning of that word.
