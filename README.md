@@ -13,7 +13,7 @@ Several tests are computed with varying distence measures:
 * Manhattan distance
 * Manhattan distance with a unit L2 normilization
 * Cosine Similarity distance
-
+___
 Created and tested in PyCharm Community Edition 4.5.2
 
 Ensure following software applications is avalible:
